@@ -33,6 +33,8 @@ def ph(): # return the category given the ph level
         print("Strong base")
     elif lvl >= 15:
         print("Error, number is too high!")
+    elif lvl < 0:
+        print("Error, number is too low (can not do negative numbers.)")
 
 ph()
 
