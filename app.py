@@ -95,27 +95,27 @@ def ph(): # return the category given the ph level
         print("Error, that's a letter, not a number!")
     elif lvl == ['O', 'o']:
         print("Error, that's a letter, not a number!")
-    elif lvl == 'P', 'p':
+    elif lvl == ['P', 'p']:
         print("Error, that's a letter, not a number!")
-    elif lvl == 'Q', 'q':
+    elif lvl == ['Q', 'q']:
         print("Error, that's a letter, not a number!")
-    elif lvl == 'R', 'r':
+    elif lvl == ['R', 'r']:
         print("Error, that's a letter, not a number!")
-    elif lvl == 'S', 's':
+    elif lvl == ['S', 's']:
         print("Error, that's a letter, not a number!")
-    elif lvl == 'T', 't':
+    elif lvl == ['T', 't']:
         print("Error, that's a letter, not a number!")
-    elif lvl == 'U', 'u':
+    elif lvl == ['U', 'u']:
         print("Error, that's a letter, not a number!")
-    elif lvl == 'V', 'v':
+    elif lvl == ['V', 'v']:
         print("Error, that's a letter, not a number!")
-    elif lvl == 'W', 'w':
+    elif lvl == ['W', 'w']:
         print("Error, that's a letter, not a number!")
-    elif lvl == 'X', 'x':
+    elif lvl == ['X', 'x']:
         print("Error, that's a letter, not a number!")
-    elif lvl == 'Y', 'y':
+    elif lvl == ['Y', 'y']:
         print("Error, that's a letter, not a number!")
-    elif lvl == 'Z', 'z':
+    elif lvl == ['Z', 'z']:
         print("Error, that's a letter, not a number!")
 
 ph()
