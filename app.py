@@ -43,6 +43,8 @@ def ph(): # return the category given the ph level
         print("That's not a number or a character, thats just a space!")
     elif lvl == ['/', "\'"]:
         print("Error, that's not a number, thats a slash!")
+    elif lvl == '?':
+        print("Error, thats a question mark, not a number!")
     elif lvl == ['A', 'a']:
         print("Error, that's a letter, not a number!")
     elif lvl == ['B', 'b']:
