@@ -37,7 +37,7 @@ def ph(): # return the category given the ph level
         print("Error, number is too low (can not do negative numbers.)")
     elif lvl == ['!', '@', '#', '$', '%', '^', '&', '*', '(', ')']:
         print("Error, not a number!")
-    elif lvl == ['-', '_', '=', '+', ' ', '`']:
+    elif lvl == ['-', '_', '=', '+', '~', '`']:
         print("Error, not a number!")
     elif lvl == '_':
         print("Error, not a number!")
