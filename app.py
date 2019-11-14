@@ -119,5 +119,3 @@ def ph(): # return the category given the ph level
         print("Error, that's a letter, not a number!")
 
 ph()
-
-# wait(10)
