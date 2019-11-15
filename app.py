@@ -1,5 +1,6 @@
 def ph(): # return the category given the ph level
     print("What is the ph level?")
+    print("Give me a number between 0 and 14.")
     lvl =int(input())
     if lvl == 0:
         print("Strong acid")
